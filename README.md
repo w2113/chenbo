@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ONLINE_VOTING
 投票系统；**homomorphic encryption algorithm** \n
 资源：http://fontawesome.io/
@@ -12,3 +13,6 @@
 
 # p.s
 另一个包可以拿来参考，一些部分从那边改写的
+=======
+# chenbo
+>>>>>>> 0faa9fe978dc71011de6ea4cc6666b42103b1fda
